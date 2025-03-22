@@ -8,8 +8,8 @@ body {
   justify-content: center; /* Centra horizontalmente los elementos en el cuerpo */
 }
 .flower {
-  height: 200px;
-  width: 200px;
+  height: 180px;
+  width: 180px;
   margin: 20px auto;
 
   display: flex;
